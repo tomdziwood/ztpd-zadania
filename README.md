@@ -11,3 +11,5 @@ W poszczególnych folderach przechowywane są zadania wykonane w ramach zajęć.
 5.  Oracle Spatial: Przetwarzanie danych (19.11) - folder [05. Oracle Spatial - Przetwarzanie danych](./05.%20Oracle%20Spatial%20-%20Przetwarzanie%20danych)
 6.  Oracle Spatial: Standard SQL/MM (26.11) - folder [06. Oracle Spatial - Standard SQLMM](./06.%20Oracle%20Spatial%20-%20Standard%20SQLMM)
 7.  Oracle Spatial: Układy LRS (03.12) - folder [07. Oracle Spatial - Układy LRS](./07.%20Oracle%20Spatial%20-%20Układy%20LRS)
+8.  Esper: Podstawy (10.12) - folder [08. Esper - Podstawy](./08.%20Esper%20-%20Podstawy)
+9.  Esper: Język EPL (17.12) - folder [09. Esper - Język EPL](./09.%20Esper%20-%20Język%20EPL)
