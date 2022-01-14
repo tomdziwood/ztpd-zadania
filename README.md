@@ -13,3 +13,4 @@ W poszczególnych folderach przechowywane są zadania wykonane w ramach zajęć.
 7.  Oracle Spatial: Układy LRS (03.12) - folder [07. Oracle Spatial - Układy LRS](./07.%20Oracle%20Spatial%20-%20Układy%20LRS)
 8.  Esper: Podstawy (10.12) - folder [08. Esper - Podstawy](./08.%20Esper%20-%20Podstawy)
 9.  Esper: Język EPL (17.12) - folder [09. Esper - Język EPL](./09.%20Esper%20-%20Język%20EPL)
+11. Oracle Text (14.01) - folder [11. Oracle Text](./11.%20Oracle%20Text)
